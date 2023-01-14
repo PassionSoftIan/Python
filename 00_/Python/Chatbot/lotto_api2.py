@@ -27,7 +27,7 @@ C = []
 for i in range(1, 7) :
     C.append(r[f'drwtNo{i}'])
 
-for i in range(100) :
+for i in range(10000) :
     numbers = list(range(1, 46))
     A = []
 
